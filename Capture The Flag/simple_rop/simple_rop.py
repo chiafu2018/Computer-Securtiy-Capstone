@@ -1,3 +1,5 @@
+# Reference: https://ithelp.ithome.com.tw/m/articles/10356195
+
 from pwn import *
 
 # Have to use p64() in address if you don't have this line

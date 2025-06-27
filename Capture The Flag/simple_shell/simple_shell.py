@@ -1,5 +1,3 @@
-# Reference: https://ithelp.ithome.com.tw/m/articles/10356195
-
 from pwn import *
 
 p = remote('140.113.207.245', 30172)
